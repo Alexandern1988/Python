@@ -13,9 +13,9 @@ The original bak file is included with the files.
 
 <b>Schema for Song Play Analysis</b>
 
-<b>Fact Table</b>
+<b>Fact Table</b> Records in the log of calling center
 
-<b> FactUsage: </b>
+<b> FactUsage: </b> 
 
 
 <b>Dimension Tables</b>
