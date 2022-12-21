@@ -47,7 +47,7 @@ The goal of the database design is to create an optimized db for the analysis ne
 
 <b>*</b> STG_Scripts.py - Use SQL queries to create and truncate for all target tables in the final DWH and assign it to python variables.
 
-<b>*</b> DWH_Scripts.py - Use SQL queries to create and truncate for all target tables in the final DWH and assign it to python variables.
+<b>*</b> DWH_Scripts.py - Use SQL queries to create all target tables in the final DWH and assign it to python variables.
 
 <b>*</b> Data_Manipulation.py - Use python pandas to perform all the data manipulation according to the S2T mapping file
 
