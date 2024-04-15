@@ -11,7 +11,7 @@ In this project, I have to model data with SSMS and build and ETL pipeline using
 The original bak file is included with the files.
 
 
-<b>Schema for Song Play Analysis</b>
+
 
 <b>Fact Table</b> Records in the log of calling center
 
